@@ -7,7 +7,7 @@
 ### 🎓 Informatics Engineering Student
 ### 🤖 Passionate about Artificial Intelligence
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=programmernourit-ops&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
